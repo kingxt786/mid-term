@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.navbar{
+    padding: 3px;
+    background: greenyellow;
+}
+.navbarsection1{
+    display: flex;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+}
+.navbarsection2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+.navbarsection2 ul li a{
+    color: black; 
+}

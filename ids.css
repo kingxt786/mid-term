@@ -1,0 +1,8 @@
+#navicons {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+#logo {
+    color: green;
+}
