@@ -46,9 +46,9 @@
 }
 
 .shadow {
-    height: 80vh;
+    height: 81vh;
     width: 100%;
-    position: absolute;
+    position:  absolute;
     top: 12.7vh;
     background: rgba(0, 0, 0, 0.262);
     z-index: 1;
